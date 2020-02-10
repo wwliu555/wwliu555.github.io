@@ -123,6 +123,10 @@ a:after {
   vertical-align: middle;
 }
 
+.about .col-lg {
+  padding-left: 10px;
+}
+
 .footer {
   background: #2f2f2f;
   padding-top: 50px;
