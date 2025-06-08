@@ -13,6 +13,7 @@ My research interests span large language models and recommendation algorithms. 
 
 News
 ======
+- [May 2025] One paper got accepted to ACL 2025 main.
 - [March 2025] Our [ToolACE-v2 model](https://huggingface.co/Team-ACE/ToolACE-2-8B) ranks 1st among 8B-scaled models on [Berkeley Function Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html)!
 - [Jan 2025] Three papers got accepted to ICLR 2025, including one first-authored paper [ToolACE](https://openreview.net/forum?id=8EB8k6DdCU).
 - [Jan 2025] Three papers got accepted to WWW 2025.
