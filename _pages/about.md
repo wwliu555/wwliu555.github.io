@@ -18,4 +18,4 @@ News
 - [Jan 2025] Three papers got accepted to ICLR 2025, including one first-authored paper [ToolACE](https://openreview.net/forum?id=8EB8k6DdCU).
 - [Jan 2025] Three papers got accepted to WWW 2025.
 - [Jan 2025] Two papers got accepted to NAACL 2025.
-- [Dec 2024] Our [ToolACE model](https://huggingface.co/Team-ACE/ToolACE-8B) was downloaded 30k+ on hugging face.
+- [Dec 2024] Our [ToolACE model](https://huggingface.co/Team-ACE/ToolACE-8B) was downloaded 300k+ on hugging face.
