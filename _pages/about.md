@@ -13,6 +13,7 @@ My research interests span large language models and recommendation algorithms. 
 
 News
 ======
+- [Nov 2025] Two papers got accepted to AAAI 2025.
 - [Sep 2025] Our [ToolACE](https://huggingface.co/Team-ACE/ToolACE-8B) model has reached a total of 500k downloads.
 - [Aug 2025] Six papers got accepted to EMNLP 2025 (4 Main 2 Findings).
 - [Aug 2025] I’ll be serving as an Area Chair for ICLR 2026.
