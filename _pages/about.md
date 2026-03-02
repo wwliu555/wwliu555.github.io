@@ -11,6 +11,8 @@ I'm currently a tenure-track associate professor at [John Hopcroft Center](http:
 
 My research interests span large language models and recommendation algorithms. Specifically, my work focuses on: (a) Designing AI agents with long-term memory, reflection capabilities, and tool intelligence; (b) Advancing next-generation recommendation models powered by LLMs, with a particular focus on developing autonomous personalized agents for real-world applications. If you would like to discuss potential collaboration or common interests, please feel free to reach me at wwliu(AT)sjtu.edu.cn.
 
+_Please note_: if you do not receive a reply to your inquiry email, it may simply indicate that the opportunity is not the best fit at this time.
+
 News
 ======
 - [Jan 2026] Two papers got accepted to ICLR 2026.
