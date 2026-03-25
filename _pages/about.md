@@ -15,7 +15,6 @@ _Please note_: if you do not receive a reply to your inquiry email, it may simpl
 
 News
 ======
-- [Mar 2026] I’ll be serving as an Area Chair for NeurIPS 2026.
 - [Jan 2026] Two papers got accepted to ICLR 2026.
 - [Jan 2026] One paper got accepted to WWW 2026.
 - [Dec 2025] One paper got accepted to AAMAS 2026.
