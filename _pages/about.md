@@ -17,7 +17,7 @@ News
 ======
 - [Mar 2026] I’ll be serving as an Area Chair for NeurIPS 2026.
 - [Jan 2026] Two papers got accepted to ICLR 2026.
-- [Jan 2026] One paper got accepted to IJCAI 2026.
+- [Jan 2026] One paper got accepted to WWW 2026.
 - [Dec 2025] One paper got accepted to AAMAS 2026.
 - [Nov 2025] Two papers got accepted to AAAI 2025.
 - [Sep 2025] Our [ToolACE](https://huggingface.co/Team-ACE/ToolACE-8B) model has reached a total of 500k downloads.
