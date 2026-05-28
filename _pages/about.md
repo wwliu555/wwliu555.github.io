@@ -17,7 +17,7 @@ News
 ======
 - [May 2026] Two papers got accepted to KDD 2026.
 - [May 2026] Two papers got accepted to ICML 2026.
-- [Apr 2026] Six papers got accepted to ACL 2026 (4 main 2 findings).
+- [Apr 2026] Seven papers got accepted to ACL 2026 (4 main 2 findings 1 industry).
 - [Jan 2026] Two papers got accepted to ICLR 2026.
 - [Jan 2026] One paper got accepted to WWW 2026.
 - [Dec 2025] One paper got accepted to AAMAS 2026.
