@@ -1,20 +1,14 @@
-<!-- ---
-title: "Teaching experience 2"
+---
+title: "CS7309 Reinforcement Learning Theory and Applications"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Graduate Course"
+permalink: /teaching/cs7309-reinforcement-learning-theory-and-applications
+venue: "Shanghai Jiao Tong University"
+location: "Shanghai, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+With the rapid advancement of artificial intelligence, machine learning is evolving beyond traditional predictive tasks to encompass more complex decision-making challenges, such as game AI, autonomous driving, and intelligent assistants. Unlike predictive tasks, decision-making tasks require agents not only to understand the current state but also to devise long-term strategies based on feedback from the environment. This demands stronger generalization and adaptive capabilities.
 
-Heading 1
-======
+Reinforcement Learning, as the core technology driving these capabilities, has attracted significant attention in recent years. In the era of AI powered by large language models, RL is recognized as a critical approach for enhancing model generalization and interaction performance. It holds great promise for the development of more intelligent, flexible AI systems and the advancement toward artificial general intelligence.
 
-Heading 2
-======
-
-Heading 3
-====== -->
+This course offers a systematic introduction to the fundamental principles and key methodologies of Reinforcement Learning. Covered topics include Markov Decision Processes, Dynamic Programming, Temporal Difference Learning, Policy Gradient Methods, Deep Reinforcement Learning, Imitation Learning, and Multi-Agent Reinforcement Learning. The course emphasizes both theoretical understanding and practical implementation, encouraging students to build and optimize agents through programming to solve real-world problems. By completing this course, students will establish a strong foundation for further exploration at the forefront of artificial intelligence research.
