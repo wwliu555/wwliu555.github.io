@@ -33,6 +33,7 @@ Recent Invited Talks
 
 Recent News
 ======
+- [Sep 2026] Seven papers got accepted to NeurIPS 2026 (1 oral top 1%)
 - [May 2026] I will serve as Industry Track Co-Chair for [DAI 2026](https://www.adai.ai/dai/2026/).
 - [May 2026] Two papers got accepted to KDD 2026.
 - [May 2026] Two papers got accepted to ICML 2026.
