@@ -34,6 +34,9 @@ Recent Invited Talks
 Recent News
 ======
 - [Sep 2026] Eight papers got accepted to NeurIPS 2026 (1 oral top 1%).
+- [Sep 2026] Team-ACE report [What Makes Good Agentic Data? An ACE Lens on Data Generation for LLM Agents](https://arxiv.org/pdf/2608.27260) has been released.
+- [Aug 2026] Our [EnvACE](https://huggingface.co/Team-ACE/EnvACE-Qwen3-8B) model has been released.
+- [Aug 2026] Our [ToolACE](https://huggingface.co/Team-ACE/ToolACE-8B) model has reached a total of 900k downloads.
 - [Aug 2026] Five papers got accepted to EMNLP 2026 (2 main 3 findings).
 - [May 2026] I will serve as Industry Track Co-Chair for [DAI 2026](https://www.adai.ai/dai/2026/).
 - [May 2026] Two papers got accepted to KDD 2026.
