@@ -7,15 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a tenure-track Associate Professor at the [John Hopcroft Center](http://jhc.sjtu.edu.cn/) and the [APEX Data & Knowledge Management Lab](https://apex.sjtu.edu.cn/members) of [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). From September 2020 to April 2025, I worked at Huawei Noah’s Ark Lab. I received my Ph.D. in Computer Science and Engineering from [The Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html) in 2020, supervised by [Prof. Pheng Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/) and [Prof. Shengyu Zhang](http://www.cse.cuhk.edu.hk/~syzhang/). Before that, I received my bachelor’s degree in Computer Science and Technology from South China University of Technology in 2016.
+I am currently a tenure-track Associate Professor at the [John Hopcroft Center](http://jhc.sjtu.edu.cn/) and the [APEX Data & Knowledge Management Lab](https://apex.sjtu.edu.cn/members) of [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). From September 2020 to April 2025, I worked at Huawei Noah’s Ark Lab. I received my Ph.D. in Computer Science and Engineering from [The Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html) in 2020, supervised by [Prof. Pheng Ann Heng](https://appsrv.cse.cuhk.edu.hk/~pheng/index.php) and [Prof. Shengyu Zhang](http://www.cse.cuhk.edu.hk/~syzhang/). Before that, I received my bachelor’s degree in Computer Science and Technology from South China University of Technology in 2016.
 
-I received the Best Paper Award at DLP-RecSys 2023 and the SJTU Top Ten Vertical-Domain Large Language Models Award in 2026. Our [ToolACE series model](https://huggingface.co/Team-ACE/ToolACE-2-8B) ranks 1st among 8B-scale models on the [Berkeley Function Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html), with over 700k total downloads.
+I received the Best Paper Award at DLP-RecSys 2023, Women in RecSys Award 2026, and the SJTU Top Ten Vertical-Domain Large Language Models Award in 2026. Our [ToolACE series model](https://huggingface.co/Team-ACE/ToolACE-2-Llama-3.1-8B) achieved the highest score among 8B-scale models on the [Berkeley Function Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html) (BFCL-v3), with over 900k total downloads.
 
-My research focuses on **building reliable, personalized, and proactive AI agents for real-world environments**. I am particularly interested in large language model agents that can use tools, maintain long-term memory, and continuously learn from experience. If you would like to discuss potential collaboration or shared research interests, please feel free to contact me at wwliu(AT)sjtu.edu.cn.
+My research focuses on **building reliable, personalized, proactive, and self-improving AI agents for real-world environments**. I am particularly interested in large language model agents that can use tools, maintain long-term memory, and continuously learn from experience to improve themselves. If you would like to discuss potential collaboration or shared research interests, please feel free to contact me at wwliu(AT)sjtu.edu.cn.
 
 Currently, our group works on the following research directions:
 
 - **LLM Agents and Tool Intelligence:** We study how LLMs interact with tools, APIs, software systems, search engines, databases, and real-world environments, aiming to build agents that can reason, act, and solve tasks through grounded tool use.
+
+- **Recursive Self-Improvement and Self-Evolving Agents:** We study how agents can improve their own capabilities over time. This includes learning from their own experience, reflecting on failures, generating and checking their own training data, refining their memory, skills, and tools, and improving the systems that drive their own learning. 
 
 - **Proactive Agents:** We develop agents that move beyond reactive responses by anticipating user needs, leveraging idle-time computation, preparing useful information in advance, and offering timely assistance.
 
@@ -33,9 +35,10 @@ Recent Invited Talks
 
 Recent News
 ======
-- [Sep 2026] Eight papers got accepted to NeurIPS 2026 (1 oral top 1%).
-- [Sep 2026] Team-ACE report [What Makes Good Agentic Data? An ACE Lens on Data Generation for LLM Agents](https://arxiv.org/pdf/2608.27260) has been released.
-- [Aug 2026] Our [EnvACE](https://huggingface.co/Team-ACE/EnvACE-Qwen3-8B) model has been released.
+- [Oct 2026] I received the [Women in RecSys Award](https://recsys.acm.org/recsys26/women-in-recsys/#content-tab-1-2-tab) at RecSys 2026.
+- [Sep 2026] Eight papers accepted to NeurIPS 2026, including one oral (top 1%).
+- [Sep 2026] The Team-ACE report [What Makes Good Agentic Data? An ACE Lens on Data Generation for LLM Agents](https://arxiv.org/pdf/2608.27260) is now available.
+- [Aug 2026] We released [EnvACE](https://huggingface.co/Team-ACE/EnvACE-Qwen3-8B), an agent model trained through "world rehearsal". 
 - [Aug 2026] Our [ToolACE](https://huggingface.co/Team-ACE/ToolACE-8B) model has reached a total of 900k downloads.
 - [Aug 2026] Five papers got accepted to EMNLP 2026 (2 main 3 findings).
 - [May 2026] I will serve as Industry Track Co-Chair for [DAI 2026](https://www.adai.ai/dai/2026/).
